@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍽️ Upcoming Reservations – Responsive React Component
 
 A modern, responsive React component built with **Tailwind CSS** to display and manage upcoming restaurant reservations. Designed for a frontend assignment, it includes clean UI, animations, and interactive functionality.
@@ -65,3 +66,6 @@ LinkedIn:- https://www.linkedin.com/in/akanksha-mahto-vit/
 
 
 ```
+=======
+# Upcoming-Reservations
+>>>>>>> 014dc108bc41e5ee77df0c0048f442dd2e9dbd18
