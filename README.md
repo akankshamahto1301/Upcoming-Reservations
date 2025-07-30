@@ -39,7 +39,7 @@ src/
 
 ## 📦 Getting Started
 
-### 1. Clone the repo
+Clone the repo
 
 ```bash
 git clone https://github.com/your-username/upcoming-reservations.git
